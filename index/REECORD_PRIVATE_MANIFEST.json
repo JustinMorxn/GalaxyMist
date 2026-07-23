@@ -1,0 +1,19 @@
+{
+  "SchemaVersion": 1,
+  "RunId": "5d4faefe-95ef-4353-b54a-10dd728e8d54",
+  "Units": [
+    {
+      "UnitIndex": 0,
+      "PrivacySafeLabel": "Unit 0001",
+      "Result": "Succeeded",
+      "ReasonCode": null,
+      "Artifacts": [
+        {
+          "RelativePath": "Direct Messages - Galaxymist [1529686326327382036].html",
+          "Bytes": 1093839,
+          "Sha256": "D7C3C62D7B2A174542BD8C9B8F768E6804D1030CD2F27BFEEFE29646B08E1FD9"
+        }
+      ]
+    }
+  ]
+}
